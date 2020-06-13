@@ -1,0 +1,16 @@
+html, body, .wrapper {
+	height: 99%;
+}
+
+.wrapper {
+	display: grid;
+}
+
+.wrapper > div {
+	border-style: solid;
+	border-width: 1px;
+}
+
+.red-bg {
+	background-color: red;
+}
